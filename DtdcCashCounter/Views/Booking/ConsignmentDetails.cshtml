@@ -1,8 +1,48 @@
 ﻿@{
     ViewBag.Title = "Printreceipt";
     Layout = "~/Views/Shared/CashCounterLayout.cshtml";
+    string baseUrl = Request.Url.Scheme + "://" + Request.Url.Authority +
+Request.ApplicationPath.TrimEnd('/') + "/";
 }
 
+@if (ViewBag.Success != null)
+{
+    <script>
+                    alert('@ViewBag.Success');
+    </script>
+}
+
+@if (ViewBag.Success != null)
+{
+    if (ViewBag.ImagePath != null)
+    {
+
+
+        <iframe id="pdfFrame" style="display:none;"></iframe>
+        <script>
+
+
+        // Load the PDF into the hidden iframe
+        $('#pdfFrame').attr('src', '@ViewBag.ImagePath');
+
+        // Once the PDF is loaded, trigger the print dialog
+        $('#pdfFrame').on('load', function () {
+            this.contentWindow.print();
+        });
+
+        </script>
+    }
+    <script>
+
+        $(document).ready(function () {
+
+            alert('Consignment Added SuccessFully');
+
+        });
+
+    </script>
+
+}
 @model DtdcCashCounter.EntityFr.Receipt_details
 
 @using (Html.BeginForm("ConsignmentDetails", "Booking", new { id = "FormName" }))
@@ -37,13 +77,13 @@
                         <label class="col-sm-3">Date</label>
                         <div class="col-sm-6">
                             @*@if (Model != null)
-        {
-            @Html.EditorFor(model => model.Datetime_Cons.Value.Date, new { htmlAttributes = new { @class = "form-control input-sm", @placeholder = "Date", @id="Datetime_Cons_Value_Date" } })
-        }
-        else
-        {
-            @Html.EditorFor(model => model.Datetime_Cons, new { htmlAttributes = new { @class = "form-control input-sm", @placeholder = "Date", @id="Datetime_Cons_Value_Date"} })
-        }*@
+                                {
+                                    @Html.EditorFor(model => model.Datetime_Cons.Value.Date, new { htmlAttributes = new { @class = "form-control input-sm", @placeholder = "Date", @id="Datetime_Cons_Value_Date" } })
+                                }
+                                else
+                                {
+                                    @Html.EditorFor(model => model.Datetime_Cons, new { htmlAttributes = new { @class = "form-control input-sm", @placeholder = "Date", @id="Datetime_Cons_Value_Date"} })
+                                }*@
 
                             @if (ViewBag.dates != null)
                             {
@@ -485,7 +525,7 @@
                                         <label for="" class="col-sm-6 nopadding">Amount</label>
                                         <div class="col-sm-6 nopadding">
 
-                                            @Html.EditorFor(model => model.Charges_Amount, new { htmlAttributes = new { @class = "form-control input-sm", @placeholder = "Amount", @readonly= "readonly"} })
+                                            @Html.EditorFor(model => model.Charges_Amount, new { htmlAttributes = new { @class = "form-control input-sm", @placeholder = "Amount", @readonly = "readonly" } })
 
                                         </div>
 
@@ -634,22 +674,22 @@
                                         </div>
                                     </div>
                                     <!-- checkbox -->
-                                    <div class="form-group">
-                                        <label class="col-md-12">
-                                            @*<input type="checkbox" class="minimal-red" id="securepack">*@
+                                    <!--<div class="form-group">
+                                        <label class="col-md-12">-->
+                                    @*<input type="checkbox" class="minimal-red" id="securepack">*@
 
-                                            @Html.CheckBoxFor(model => model.secure_Pack, new { htmlAttributes = new { @class = "form-control input-sm" } })Secure Pack
+                                    <!--@@Html.CheckBoxFor(model => model.secure_Pack, new { htmlAttributes = new { @@class = "form-control input-sm" } })Secure Pack
 
+                                    </label>
+                                    <label class="col-md-12">-->
+                                    @*<input type="checkbox" class="minimal-red" id="passport">*@
+                                    <!--@@Html.CheckBoxFor(model => model.Passport, new { htmlAttributes = new { @@class = "form-control input-sm" } })Passport
+                                    </label>
+                                    <label class="col-md-12">-->
+                                    @*<input type="checkbox" class="minimal-red" id="sundaycollect">*@
+                                    <!--@@Html.CheckBoxFor(model => model.OfficeSunday, new { htmlAttributes = new { @@class = "form-control input-sm" } })Office / Sunday Collect
                                         </label>
-                                        <label class="col-md-12">
-                                            @*<input type="checkbox" class="minimal-red" id="passport">*@
-                                            @Html.CheckBoxFor(model => model.Passport, new { htmlAttributes = new { @class = "form-control input-sm" } })Passport
-                                        </label>
-                                        <label class="col-md-12">
-                                            @*<input type="checkbox" class="minimal-red" id="sundaycollect">*@
-                                            @Html.CheckBoxFor(model => model.OfficeSunday, new { htmlAttributes = new { @class = "form-control input-sm" } })Office / Sunday Collect
-                                        </label>
-                                    </div>
+                                    </div>-->
                                 </div>
                             </div>
 
@@ -795,7 +835,7 @@
 
 
 <script>
-  
+
 
     $("#changeamount").click(function (e) {
         e.preventDefault();
@@ -809,17 +849,17 @@
             success: function (Data) {
 
                 if (Data == "1") {
-                //    alert("jgfjfgkj");
-                 //   $("#modal-default").remove();
+                    //    alert("jgfjfgkj");
+                    //   $("#modal-default").remove();
                     $("#modal-default").modal('hide')
-                 //   $('#modal-default').modal('to
+                    //   $('#modal-default').modal('to
                     $("#Charges_Amount").attr("readonly", false);
                     $("#Risk_Surcharge").attr("readonly", false);
                     $("#Discount").attr("readonly", false);
-                  
-                  //  $("#modal-default").hide();
-                 //   $('#modal-default').modal('toggle');
-                   
+
+                    //  $("#modal-default").hide();
+                    //   $('#modal-default').modal('toggle');
+
                 }
                 else {
                     alert("Invalid Password");
@@ -834,9 +874,9 @@
     });
 </script>
 @*@if(ViewBag.status != null)
-    {
-<input type="hidden" value="@ViewBag.status">
-    }*@
+        {
+    <input type="hidden" value="@ViewBag.status">
+        }*@
 <script>
     $(document).ready(function () {
 
@@ -1703,14 +1743,14 @@ $("#ReciepentsCity").autocomplete({
             var Shipment_Mode = $("input[name='Shipment_Mode']:checked").val();
 
             if (Shipment_Mode == "Air") {
-                $('#DivideBy').val(3000);
+                $('#DivideBy').val(5000);
 
             }
             if (Shipment_Mode == "Surface") {
-                $('#DivideBy').val(4000);
+                $('#DivideBy').val(4500);
             }
             if (Shipment_Mode == "International") {
-                $('#DivideBy').val(5000);
+                $('#DivideBy').val(2700);
             }
 
 

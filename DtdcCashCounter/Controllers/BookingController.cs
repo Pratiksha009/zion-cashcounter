@@ -252,7 +252,39 @@ namespace DtdcCashCounter.Controllers
 
         }
 
+        public string RecallPrintMethod(string consignmentno)
+        {
 
+            string imageName = consignmentno + "." + ImageType.Png;
+            string imagePath = "/BarcodeImages/" + imageName;
+
+            string baseUrl = Request.Url.Scheme + "://" + Request.Url.Authority +
+                     Request.ApplicationPath.TrimEnd('/');
+
+
+
+            string imageServerPath = Server.MapPath("~" + imagePath);
+
+
+            // Usage 
+            string data = consignmentno; // Your barcode data
+            Image barcodeImage = GenerateBarcode(data);
+
+
+            barcodeImage.Save(imageServerPath, System.Drawing.Imaging.ImageFormat.Png);
+
+            // Dispose of the image
+            barcodeImage.Dispose();
+
+            var getRecipt = db.Receipt_details.Where(x => x.Consignment_No == consignmentno).FirstOrDefault();
+            getRecipt.BarcodeImage = baseUrl + imagePath;
+            db.SaveChanges();
+
+
+
+            return Printcashcounter(consignmentno);
+
+        }
         public ActionResult PrintMethod(string consignmentno)
         {
             ////////////////test print reciept////////////////////
@@ -311,16 +343,44 @@ namespace DtdcCashCounter.Controllers
 
             return writer.Write(data);
         }
+        //public ActionResult Download(string id)
+        //{
+        //    string baseUrl = Request.Url.Scheme + "://" + Request.Url.Authority +
+        //      Request.ApplicationPath.TrimEnd('/') + "/";
+        //    // string savePath = Server.MapPath("~/ConsignmentPDF/" + "Recieptdetails-" + id+ ".pdf");
+        //    string savePath = baseUrl + "ConsignmentPDF/Recieptdetails-" + id + ".pdf";
+        //    return Redirect(savePath);
+
+        //}
         public ActionResult Download(string id)
         {
-            string baseUrl = Request.Url.Scheme + "://" + Request.Url.Authority +
-              Request.ApplicationPath.TrimEnd('/') + "/";
-            // string savePath = Server.MapPath("~/ConsignmentPDF/" + "Recieptdetails-" + id+ ".pdf");
-            string savePath = baseUrl + "ConsignmentPDF/Recieptdetails-" + id + ".pdf";
-            return Redirect(savePath);
+
+
+            var Recieptdetails = db.Receipt_details.Where(m => m.Consignment_No == id);//.ToList();
+
+            //string companyname = db.Companies.Where(m => m.Company_Id == invoice.Customer_Id).Select(m => m.Company_Id).FirstOrDefault().ToString();
+            string savePath = Server.MapPath("~/ConsignmentPDF/" + "Recieptdetails-" + Recieptdetails.FirstOrDefault().Consignment_No + ".pdf");
+            //string savePath = Request.Url.Scheme + "://" + Request.Url.Authority +
+            //                 Request.ApplicationPath.TrimEnd('/') + "/ConsignmentPDF/" + "Recieptdetails-" + Recieptdetails.FirstOrDefault().Consignment_No + ".pdf"; ;
+            if (System.IO.File.Exists(savePath))
+            {
+                savePath = Request.Url.Scheme + "://" + Request.Url.Authority +
+                          Request.ApplicationPath.TrimEnd('/') + "/ConsignmentPDF/" + "Recieptdetails-" + Recieptdetails.FirstOrDefault().Consignment_No + ".pdf"; ;
+
+                return Redirect(savePath);
+            }
+            else
+            {
+                var Generate = RecallPrintMethod(id);
+                savePath = Request.Url.Scheme + "://" + Request.Url.Authority +
+                              Request.ApplicationPath.TrimEnd('/') + "/ConsignmentPDF/" + "Recieptdetails-" + Recieptdetails.FirstOrDefault().Consignment_No + ".pdf"; ;
+
+                return Redirect(savePath);
+            }
+
+
 
         }
-
         public ActionResult SenderPhoneAutocomplete()
         {
 
@@ -1377,7 +1437,7 @@ Select(e => new
             ViewBag.dates = consignment.Datetime_Cons;
             if (consignment == null)
             {
-                ModelState.AddModelError("Consignment", "Consignment Dosent Exist");
+                ModelState.AddModelError("Consignment", "Consignment Dosen't Exist");
             }
             else if (ModelState.IsValid)
             {
@@ -1430,8 +1490,23 @@ Select(e => new
 
                 db.Entry(reciept_Details).State=EntityState.Modified;
                 db.SaveChanges();
+                var savePath = "";
+                if (Submit == "Print")
+                {
+                    ////////////////test////////////////////
+                    var getFileName = PrintMethod(reciept_Details.Consignment_No);
 
-              
+                    string baseUrl = Request.Url.Scheme + "://" + Request.Url.Authority +
+    Request.ApplicationPath.TrimEnd('/') + "/";
+
+                    savePath = baseUrl + "/ConsignmentPDF/Recieptdetails-" + reciept_Details.Consignment_No.Replace("/", "-") + ".pdf";
+
+                    // return Redirect(savePath);
+                    ViewBag.ImagePath = savePath;
+                    //return Redirect(savePath);
+                    ////////////////test////////////////////
+                }
+
                 ViewBag.Success = "Consignment Updated Successfully...!!!";
                 ////////////////////////////////////////
 
@@ -1452,8 +1527,11 @@ Select(e => new
             Receipt_details rc = (from u in db.Receipt_details
                                   where u.Consignment_No == Consignment_No
                                   select u).FirstOrDefault();
+            if (rc.CreateDateString != null)
+            {
+                rc.CreateDateString = rc.Datetime_Cons.Value.Date.ToString("dd/MM/yyyy");
 
-            rc.CreateDateString = rc.Datetime_Cons.Value.Date.ToString("dd/MM/yyyy");
+            }
 
             return Json(rc, JsonRequestBehavior.AllowGet);
         }
@@ -1738,7 +1816,22 @@ Select(e => new
 
                 ViewBag.nextconsignment = ch + "" + consignnumber;
 
+                var savePath = "";
+                if (Submit == "Print")
+                {
+                    ////////////////test////////////////////
+                    var getFileName = PrintMethod(reciept_Details.Consignment_No);
 
+                    string baseUrl = Request.Url.Scheme + "://" + Request.Url.Authority +
+    Request.ApplicationPath.TrimEnd('/') + "/";
+
+                    savePath = baseUrl + "/ConsignmentPDF/Recieptdetails-" + reciept_Details.Consignment_No.Replace("/", "-") + ".pdf";
+
+                    // return Redirect(savePath);
+                    ViewBag.ImagePath = savePath;
+                    //return Redirect(savePath);
+                    ////////////////test////////////////////
+                }
 
                 ///// Adding Wallet Points To Phone Number///
                 //WalletPoint AddPoints = db.WalletPoints.Where(m => m.MobileNo == reciept_Details.sender_phone).FirstOrDefault();

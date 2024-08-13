@@ -8,6 +8,12 @@
 Request.ApplicationPath.TrimEnd('/') + "/";
 }
 
+@if (ViewBag.Success != null)
+            {
+                <script>
+                    alert('@ViewBag.Success');
+                </script>
+            }
 
 
 
@@ -1627,14 +1633,14 @@ $("#ReciepentsCity").autocomplete({
             var Shipment_Mode = $("input[name='Shipment_Mode']:checked").val();
 
             if (Shipment_Mode == "Air") {
-                $('#DivideBy').val(3000);
+                $('#DivideBy').val(5000);
 
             }
             if (Shipment_Mode == "Surface") {
-                $('#DivideBy').val(4000);
+                $('#DivideBy').val(4500);
             }
             if (Shipment_Mode == "International") {
-                $('#DivideBy').val(5000);
+                $('#DivideBy').val(2700);
             }
 
 
@@ -1915,7 +1921,7 @@ $("#ReciepentsCity").autocomplete({
     {
 
 
-        <iframe id="pdfFrame" style="display:none;"></iframe>
+        <iframe id="pdfFrame" style="display:none;" ></iframe>
         <script>
 
 
@@ -1929,15 +1935,7 @@ $("#ReciepentsCity").autocomplete({
 
         </script>
     }
-    <script>
-
-        $(document).ready(function () {
-
-            alert('Consignment Added SuccessFully');
-
-        });
-
-    </script>
+    
 
 }
 
@@ -2152,7 +2150,7 @@ $("#ReciepentsCity").autocomplete({
     </script>
 }*@
 
-<a id="savecon" style="" href="" download>
+<a id="savecon" style="" href="" target="_blank" download>
 </a>
 
 

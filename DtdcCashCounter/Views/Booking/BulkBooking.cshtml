@@ -6,6 +6,37 @@
 }
 
 
+@if (ViewBag.Success != null)
+{
+    <script>
+                    alert('@ViewBag.Success');
+    </script>
+}
+
+
+@if (ViewBag.Success != null)
+{
+    if (ViewBag.ImagePath != null)
+    {
+
+
+        <iframe id="pdfFrame" style="display:none;"></iframe>
+        <script>
+
+
+        // Load the PDF into the hidden iframe
+        $('#pdfFrame').attr('src', '@ViewBag.ImagePath');
+
+        // Once the PDF is loaded, trigger the print dialog
+        $('#pdfFrame').on('load', function () {
+            this.contentWindow.print();
+        });
+
+        </script>
+    }
+
+
+}
 
 
 
@@ -625,7 +656,7 @@
                                         <div class="radio">
                                             <label>
                                                 <input type="radio" name="sericerad" class="sericerad" id="Doxradio" value="0">
-                                                 Lite
+                                                Lite
                                             </label>
                                         </div>
                                     </div>
@@ -789,11 +820,11 @@
                                                         <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Close</button>
                                                         <button id="disc" type="button" class="btn btn-primary">Redeem</button>
                                                     </div>
-                                                </div>--><!-- /.modal-content -->
-                                            <!--</div>--><!-- /.modal-dialog -->
-                                        <!--</div>--><!-- /.modal -->
-
-                                    <!--</div>
+                                                </div>-->
+                            <!-- /.modal-content -->
+                            <!--</div>--><!-- /.modal-dialog -->
+                            <!--</div>--><!-- /.modal -->
+                            <!--</div>
                                 </div>
                             </div>-->
                             <div class="box-footer text-right">
@@ -1571,7 +1602,7 @@ $("#ReciepentsCity").autocomplete({
             var addition = (parseInt("0" + p1) + parseInt("0" + p2) + parseInt("0" + p3) + parseInt("0" + p4) + parseInt("0" + p5) - p6);
             $('#Charges_Total').val(addition);      // The function returns Sum Of Amount
             $('#Credit_Amount').val(addition);      // The function returns Sum Of Amount
-            $('#balamount1').val(0);     
+            $('#balamount1').val(0);
         }
 
         $("#Credit_Amount").keyup(function () {
@@ -1636,14 +1667,14 @@ $("#ReciepentsCity").autocomplete({
             var Shipment_Mode = $("input[name='Shipment_Mode']:checked").val();
 
             if (Shipment_Mode == "Air") {
-                $('#DivideBy').val(3000);
+                $('#DivideBy').val(5000);
 
             }
             if (Shipment_Mode == "Surface") {
-                $('#DivideBy').val(4000);
+                $('#DivideBy').val(4500);
             }
             if (Shipment_Mode == "International") {
-                $('#DivideBy').val(5000);
+                $('#DivideBy').val(2700);
             }
 
 
@@ -1903,18 +1934,18 @@ $("#ReciepentsCity").autocomplete({
 @if (ViewBag.Insuarance == "N")
 {
     <script>
-    $(document).ready(function () {
-        $('#insurance').show();
-    });
+        $(document).ready(function () {
+            $('#insurance').show();
+        });
     </script>
 }
 
 @if (ViewBag.yesinsurance == "yes")
 {
     <script>
-    $(document).ready(function () {
-        $('#insurancedetails').show();
-    });
+        $(document).ready(function () {
+            $('#insurancedetails').show();
+        });
     </script>
 }
 
@@ -1922,11 +1953,11 @@ $("#ReciepentsCity").autocomplete({
 {
     <script>
 
-    $(document).ready(function () {
+        $(document).ready(function () {
 
-        alert('Consignment Added SuccessFully');
+            alert('Consignment Added SuccessFully');
 
-    });
+        });
 
     </script>
 
