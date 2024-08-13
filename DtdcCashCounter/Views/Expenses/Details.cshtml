@@ -1,0 +1,51 @@
+﻿@model DtdcCashCounter.EntityFr.Expense
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/CashCounterLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Expense</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Rason)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rason)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Category)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Franchisee.F_Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Franchisee.F_Address)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Exp_ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

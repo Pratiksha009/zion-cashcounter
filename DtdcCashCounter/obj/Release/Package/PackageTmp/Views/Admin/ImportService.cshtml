@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "ImportService";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+
+
+
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box box-info">
+                    <div class="box-header with-border">
+                        <h3 class="box-title">Upload CSV</h3>
+                    </div>
+
+                    @using (Html.BeginForm("ImportService", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                    {
+
+                        <div class="box-body">
+
+                            <input type="file" name="postedFile" />
+
+                            <input type="submit" class="btn btn-info" value="OK" />
+
+                        </div>
+
+
+                    }
+
+
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+</div>
+
+
+
+@if (ViewBag.Success != null)
+{
+    <script>
+
+        $(document).ready(function () {
+
+            alert('CSV Imported SuccessFully');
+
+        });
+
+    </script>
+
+}

@@ -1,0 +1,70 @@
+﻿@model IEnumerable<DtdcCashCounter.EntityFr.wallet_History>
+
+@{
+    ViewBag.Title = "WalletHistory";
+    Layout = "~/Views/Shared/CashCounterLayout.cshtml";
+}
+
+
+
+<div class="content-wrapper">
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.H_Status)
+            </th>
+         
+            <th>
+                @Html.DisplayNameFor(model => model.consignment_no)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Amount)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.mobile_no)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.datetime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User.Name)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.H_Status)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.consignment_no)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.mobile_no)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.datetime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Franchisee.F_Address)
+            </td>
+         
+            <td>
+                @*@Html.ActionLink("Edit", "Edit", new { id = item.H_Id }) |
+            @Html.ActionLink("Details", "Details", new { id = item.H_Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.H_Id })*@
+            </td>
+        </tr>
+        }
+
+    </table>
+
+</div>

@@ -1,0 +1,143 @@
+﻿
+@{
+    ViewBag.Title = "DayWiseCharts";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+
+
+
+<div class="content-wrapper">
+
+    @using (Html.BeginForm())
+    {
+
+        @Html.DropDownList("Months", "-Select Month-")
+        @Html.DropDownList("Years", "-Select Year")
+        @Html.DropDownList("PfCode", "-Select PFCode-")
+
+        <button type="button" id="submitdate" class="btn btn-block btn-success">Search</button>
+    }
+    <div id="chartContainer" style="height: 370px; width: 100%;"></div>
+</div>
+<script src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>
+<script src="https://canvasjs.com/assets/script/jquery.canvasjs.min.js"></script>
+<script>
+    window.onload = function () {
+
+        var dataPoints = [];
+
+        var chart = new CanvasJS.Chart("chartContainer", {
+            animationEnabled: true,
+            theme: "light2",
+            title: {
+                text: "Daily Sales Report Chart"
+            },
+            axisY: {
+                title: "INR",
+                titleFontSize: 24,
+                includeZero: false,
+                prefix: "Rs.",
+                crosshair: {
+                    enabled: true,
+                    snapToDataPoint: true
+                }
+            },
+            axisX: {
+                crosshair: {
+                    enabled: true,
+                    snapToDataPoint: true,
+                }
+            },
+            data: [{
+                type: "area",
+
+                dataPoints: dataPoints
+            }]
+        });
+
+        function addData(data) {
+            for (var i = 0; i < data.length; i++) {
+
+                console.log(new Date(1520208000 * 1000) + "hgfdshad");
+                dataPoints.push({
+                    x: new Date(data[i].X * 1000),
+                    y: data[i].Y
+
+                });
+            }
+            chart.render();
+
+        }
+
+        $.getJSON("/Reports/json", addData);
+
+    }
+</script>
+Months,int ? Years
+<script>
+    $(document).ready(function () {
+        $('#submitdate').click(function () {
+            var Months = $('#Months').val();
+            var Years = $('#Years').val();
+            var PfCode = $('#PfCode').val();
+
+            callchart(Months, Years, PfCode);
+
+
+        });
+
+
+        function callchart(Months, Years, PfCode) {
+            var dataPoints = [];
+
+            var chart = new CanvasJS.Chart("chartContainer", {
+                animationEnabled: true,
+                theme: "light2",
+                title: {
+                    text: "Daily Sales Report Chart"
+                },
+                axisY: {
+                    title: "INR",
+                    titleFontSize: 24,
+                    includeZero: false,
+                    prefix: "Rs.",
+                    crosshair: {
+                        enabled: true,
+                        snapToDataPoint: true
+                    }
+                },
+                axisX: {
+                    crosshair: {
+                        enabled: true,
+                        snapToDataPoint: true,
+                    }
+                },
+                data: [{
+                    type: "area",
+
+                    dataPoints: dataPoints
+                }]
+            });
+
+            function addData(data) {
+                for (var i = 0; i < data.length; i++) {
+
+                    console.log(new Date(1520208000 * 1000) + "hgfdshad");
+                    dataPoints.push({
+                        x: new Date(data[i].X * 1000),
+                        y: data[i].Y
+
+                    });
+                }
+                chart.render();
+
+            }
+
+            $.getJSON("/Reports/json", { Months: Months, Years: Years, pfCode: PfCode}, addData);
+
+        }
+    });
+</script>
+

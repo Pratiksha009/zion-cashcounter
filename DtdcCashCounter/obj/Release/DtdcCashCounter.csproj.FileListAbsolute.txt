@@ -1,0 +1,1123 @@
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\ApplicationInsights.config
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll.config
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.pdb
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Antlr3.Runtime.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\ExcelNumberFormat.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\FastMember.Signed.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.Web.Infrastructure.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Newtonsoft.Json.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.IO.FileSystem.Primitives.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.IO.Packaging.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Helpers.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Mvc.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Optimization.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Razor.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\WebGrease.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.pdb
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\ExcelNumberFormat.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Helpers.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Mvc.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Optimization.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Razor.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Antlr3.Runtime.pdb
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Newtonsoft.Json.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.xml
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csprojResolveAssemblyReference.cache
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CoreCompileInputs.cache
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.dll
+D:\Ongoing\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.pdb
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ApplicationInsights.config
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll.config
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.pdb
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Antlr3.Runtime.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ExcelNumberFormat.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\FastMember.Signed.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Agent.Intercept.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.Web.Infrastructure.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Newtonsoft.Json.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.IO.FileSystem.Primitives.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.IO.Packaging.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Helpers.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Mvc.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Optimization.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Razor.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\WebGrease.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.pdb
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ExcelNumberFormat.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Helpers.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Mvc.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Optimization.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Razor.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Antlr3.Runtime.pdb
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Newtonsoft.Json.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.xml
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csprojResolveAssemblyReference.cache
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CoreCompileInputs.cache
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.dll
+\\Bala-pc1\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.pdb
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ApplicationInsights.config
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll.config
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.pdb
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Antlr3.Runtime.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ExcelNumberFormat.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\FastMember.Signed.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.Web.Infrastructure.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Newtonsoft.Json.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.IO.FileSystem.Primitives.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.IO.Packaging.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Helpers.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Mvc.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Optimization.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Razor.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\WebGrease.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.pdb
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ExcelNumberFormat.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Helpers.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Mvc.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Optimization.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Razor.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Antlr3.Runtime.pdb
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Newtonsoft.Json.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.xml
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csprojResolveAssemblyReference.cache
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CoreCompileInputs.cache
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.dll
+D:\BALA\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.pdb
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ApplicationInsights.config
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll.config
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.pdb
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Antlr3.Runtime.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ExcelNumberFormat.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\FastMember.Signed.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.Web.Infrastructure.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Newtonsoft.Json.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.IO.FileSystem.Primitives.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.IO.Packaging.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Helpers.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Mvc.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Optimization.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Razor.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\WebGrease.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.pdb
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ExcelNumberFormat.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Helpers.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Mvc.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Optimization.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Razor.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Antlr3.Runtime.pdb
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Newtonsoft.Json.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.xml
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csprojAssemblyReference.cache
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CoreCompileInputs.cache
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CopyComplete
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.dll
+E:\BALA\PawanHans\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.pdb
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ApplicationInsights.config
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll.config
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.pdb
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Antlr3.Runtime.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ExcelNumberFormat.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\FastMember.Signed.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.Web.Infrastructure.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Newtonsoft.Json.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.IO.FileSystem.Primitives.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.IO.Packaging.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Helpers.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Mvc.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Optimization.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Razor.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\WebGrease.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.pdb
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\ExcelNumberFormat.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Helpers.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Mvc.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Optimization.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Razor.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Antlr3.Runtime.pdb
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Newtonsoft.Json.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.xml
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csprojAssemblyReference.cache
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CoreCompileInputs.cache
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CopyComplete
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.dll
+E:\Prajkta\live projects\mexpress\Ongoing Cashcounter\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.pdb
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ApplicationInsights.config
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\SqlServerTypes\x64\msvcr120.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\SqlServerTypes\x86\msvcr120.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll.config
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\DtdcCashCounter.pdb
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Antlr3.Runtime.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ExcelNumberFormat.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\FastMember.Signed.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Agent.Intercept.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.Common.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.Design.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WebForms.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WinForms.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.SqlServer.Types.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.Web.Infrastructure.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Neodynamic.Web.MVC.Barcode.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Newtonsoft.Json.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.IO.FileSystem.Primitives.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.IO.Packaging.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Helpers.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Mvc.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Optimization.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Razor.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\WebGrease.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\EnvDTE.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\stdole.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\EnvDTE80.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.Build.Tasks.Core.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\VSLangProj.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\VSLangProj80.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Threading.Tasks.Dataflow.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.GraphModel.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.MSXML.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.Build.Utilities.Core.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.Build.Framework.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\VSLangProj2.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.pdb
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ClosedXML.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ExcelNumberFormat.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Helpers.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Mvc.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Optimization.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.Razor.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Antlr3.Runtime.pdb
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Newtonsoft.Json.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csprojAssemblyReference.cache
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CoreCompileInputs.cache
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CopyComplete
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.dll
+D:\live projects\veerexpress\DtdcCashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.pdb
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ApplicationInsights.config
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\SqlServerTypes\x64\msvcr120.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\SqlServerTypes\x86\msvcr120.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll.config
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\DtdcCashCounter.pdb
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Antlr3.Runtime.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ClosedXML.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\EntityFramework.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ExcelNumberFormat.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\FastMember.Signed.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.Common.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.Design.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WebForms.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.SqlServer.Types.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.Web.Infrastructure.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Neodynamic.Web.MVC.Barcode.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Newtonsoft.Json.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.IO.Packaging.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.Helpers.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.Mvc.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.Optimization.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.Razor.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\WebGrease.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\EnvDTE.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WinForms.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\stdole.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.MSXML.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ClosedXML.pdb
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ClosedXML.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\EntityFramework.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ExcelNumberFormat.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.Helpers.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.Mvc.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.Optimization.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.Razor.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Antlr3.Runtime.pdb
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Newtonsoft.Json.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.xml
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.AssemblyReference.cache
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CoreCompileInputs.cache
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CopyComplete
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.dll
+D:\LiveProject\New DTDC Projects\Quest Courier Cargo\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.pdb
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ApplicationInsights.config
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\SqlServerTypes\x64\msvcr120.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\SqlServerTypes\x86\msvcr120.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll.config
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\DtdcCashCounter.pdb
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Antlr3.Runtime.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ClosedXML.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\EntityFramework.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ExcelNumberFormat.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\FastMember.Signed.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.Common.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.Design.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WebForms.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.SqlServer.Types.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.Web.Infrastructure.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Neodynamic.Web.MVC.Barcode.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Newtonsoft.Json.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.IO.Packaging.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.Helpers.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.Mvc.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.Optimization.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.Razor.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\WebGrease.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\EnvDTE.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WinForms.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\stdole.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.MSXML.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ClosedXML.pdb
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ClosedXML.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\EntityFramework.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ExcelNumberFormat.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.Helpers.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.Mvc.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.Optimization.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.Razor.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Antlr3.Runtime.pdb
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Newtonsoft.Json.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.xml
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.AssemblyReference.cache
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CoreCompileInputs.cache
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CopyComplete
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.dll
+D:\LiveProject\New DTDC Projects\DANGE CHOWK PF2069\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.pdb
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ApplicationInsights.config
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\SqlServerTypes\x64\msvcr120.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\SqlServerTypes\x86\msvcr120.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll.config
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\DtdcCashCounter.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\DtdcCashCounter.pdb
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Antlr3.Runtime.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Azure.Core.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Azure.Identity.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ClosedXML.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\EntityFramework.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ExcelNumberFormat.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\FastMember.Signed.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.Data.SqlClient.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.Identity.Client.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Logging.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Protocols.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Tokens.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.Common.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.Design.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WebForms.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.SqlServer.Types.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.Web.Infrastructure.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Neodynamic.Web.MVC.Barcode.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Newtonsoft.Json.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Buffers.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Configuration.ConfigurationManager.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Diagnostics.DiagnosticSource.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.IO.FileSystem.AccessControl.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.IO.Packaging.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Memory.Data.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Memory.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Numerics.Vectors.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Security.AccessControl.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Security.Cryptography.ProtectedData.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Security.Permissions.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Security.Principal.Windows.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Text.Encodings.Web.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Text.Json.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Threading.Tasks.Extensions.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.ValueTuple.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.Helpers.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.Mvc.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.Optimization.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.Razor.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\WebGrease.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zxing.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zxing.presentation.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\EnvDTE.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WinForms.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\stdole.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Azure.Core.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Azure.Identity.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ClosedXML.pdb
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ClosedXML.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\EntityFramework.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\EntityFramework.SqlServer.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ExcelNumberFormat.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.Data.SqlClient.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.Identity.Client.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Logging.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Protocols.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Tokens.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Buffers.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Configuration.ConfigurationManager.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Diagnostics.DiagnosticSource.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.IO.FileSystem.AccessControl.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Memory.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Memory.Data.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Numerics.Vectors.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Security.AccessControl.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Security.Cryptography.ProtectedData.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Security.Permissions.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Security.Principal.Windows.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Text.Encodings.Web.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Text.Json.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Threading.Tasks.Extensions.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.ValueTuple.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.Helpers.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.Mvc.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.Optimization.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.Razor.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Antlr3.Runtime.pdb
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zxing.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zxing.presentation.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Newtonsoft.Json.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\Microsoft.AI.Web.xml
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.AssemblyReference.cache
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CoreCompileInputs.cache
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CopyComplete
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.dll
+D:\LiveProject\New DTDC Projects\VB EXPRESS PF2137\CashCounter\DtdcCashCounter\obj\Release\DtdcCashCounter.pdb
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ApplicationInsights.config
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\SqlServerTypes\x64\msvcr120.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\SqlServerTypes\x86\msvcr120.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\DtdcCashCounter.dll.config
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\DtdcCashCounter.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\DtdcCashCounter.pdb
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Antlr3.Runtime.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Azure.Core.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Azure.Identity.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ClosedXML.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\EntityFramework.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\EntityFramework.SqlServer.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ExcelNumberFormat.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\FastMember.Signed.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.AI.Web.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.Data.SqlClient.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.Identity.Client.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Logging.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Protocols.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Tokens.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.ReportViewer.Common.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.ReportViewer.Design.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WebForms.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.SqlServer.Types.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.Web.Infrastructure.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Neodynamic.Web.MVC.Barcode.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Newtonsoft.Json.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Buffers.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Configuration.ConfigurationManager.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Diagnostics.DiagnosticSource.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.IO.FileSystem.AccessControl.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.IO.Packaging.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Memory.Data.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Memory.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Numerics.Vectors.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Security.AccessControl.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Security.Cryptography.ProtectedData.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Security.Permissions.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Security.Principal.Windows.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Text.Encodings.Web.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Text.Json.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Threading.Tasks.Extensions.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.ValueTuple.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.Helpers.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.Mvc.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.Optimization.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.Razor.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.WebPages.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\WebGrease.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zxing.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zxing.presentation.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\EnvDTE.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.ReportViewer.WinForms.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\stdole.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Azure.Core.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Azure.Identity.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ClosedXML.pdb
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ClosedXML.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\DocumentFormat.OpenXml.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\EntityFramework.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\EntityFramework.SqlServer.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ExcelNumberFormat.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.Data.SqlClient.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.Identity.Client.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Logging.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Protocols.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.IdentityModel.Tokens.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Buffers.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Configuration.ConfigurationManager.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Diagnostics.DiagnosticSource.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.IO.FileSystem.AccessControl.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Memory.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Memory.Data.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Numerics.Vectors.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Security.AccessControl.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Security.Cryptography.ProtectedData.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Security.Permissions.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Security.Principal.Windows.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Text.Encodings.Web.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Text.Json.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Threading.Tasks.Extensions.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.ValueTuple.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.Helpers.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.Mvc.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.Optimization.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.Razor.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.WebPages.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.WebPages.Deployment.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\System.Web.WebPages.Razor.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Antlr3.Runtime.pdb
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zxing.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zxing.presentation.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Newtonsoft.Json.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.ApplicationInsights.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.AI.DependencyCollector.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.AI.WindowsServer.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\Microsoft.AI.Web.xml
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.AssemblyReference.cache
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\obj\Release\DtdcCashCounter.csproj.CoreCompileInputs.cache
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\obj\Release\DtdcCash.380A6B15.Up2Date
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\obj\Release\DtdcCashCounter.dll
+D:\LiveProject\New DTDC Projects\Zion enterprises\Cashcounter\DtdcCashCounter\obj\Release\DtdcCashCounter.pdb

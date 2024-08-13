@@ -1,0 +1,113 @@
+﻿@model DtdcCashCounter.EntityFr.Franchisee
+
+@{
+    ViewBag.Title = "AddFranchisee";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="content-wrapper">
+    <section class="content-header">
+        <div class="col-sm-12">
+            <h4>Franchisee</h4>
+        </div>
+    </section>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <section class="content">
+            <div class="col-sm-12 no-padding">
+                <div class="box box-info">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="form-horizontal">
+                                <div class="box-body">
+                                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.PF_Code, htmlAttributes: new { @class = "col-md-4" })
+                                        <div class="col-md-8">
+                                            @Html.EditorFor(model => model.PF_Code, new { htmlAttributes = new { @class = "form-control input-sm" } })
+                                            @Html.ValidationMessageFor(model => model.PF_Code, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.F_Address, htmlAttributes: new { @class = "col-md-4" })
+                                        <div class="col-md-8">
+                                            @Html.EditorFor(model => model.F_Address, new { htmlAttributes = new { @class = "form-control input-sm" } })
+                                            @Html.ValidationMessageFor(model => model.F_Address, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.OwnerName, htmlAttributes: new { @class = "col-md-4" })
+                                        <div class="col-md-8">
+                                            @Html.EditorFor(model => model.OwnerName, new { htmlAttributes = new { @class = "form-control input-sm" } })
+                                            @Html.ValidationMessageFor(model => model.OwnerName, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.BranchName, htmlAttributes: new { @class = "col-md-4" })
+                                        <div class="col-md-8">
+                                            @Html.EditorFor(model => model.BranchName, new { htmlAttributes = new { @class = "form-control input-sm" } })
+                                            @Html.ValidationMessageFor(model => model.BranchName, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.GstNo, htmlAttributes: new { @class = "col-md-4" })
+                                        <div class="col-md-8">
+                                            @Html.EditorFor(model => model.GstNo, new { htmlAttributes = new { @class = "form-control input-sm" } })
+                                            @Html.ValidationMessageFor(model => model.GstNo, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+
+
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.ContactNo, htmlAttributes: new { @class = "col-md-4" })
+                                        <div class="col-md-8">
+                                            @Html.EditorFor(model => model.ContactNo, new { htmlAttributes = new { @class = "form-control input-sm" } })
+                                            @Html.ValidationMessageFor(model => model.ContactNo, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+
+
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.Franchisee_Name, htmlAttributes: new { @class = "col-md-4" })
+                                        <div class="col-md-8">
+                                            @Html.EditorFor(model => model.Franchisee_Name, new { htmlAttributes = new { @class = "form-control input-sm" } })
+                                            @Html.ValidationMessageFor(model => model.Franchisee_Name, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <div class="col-md-offset-4 col-md-8">
+                                            <input type="submit" value="Create" class="btn btn-info btn-sm" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    }
+
+</div>
+
+@if (ViewBag.Success != null)
+{
+    <script>
+
+        $(document).ready(function () {
+
+            alert('Franchisee Added SuccessFully');
+
+        });
+
+    </script>
+
+}

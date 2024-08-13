@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="503a89166d3b4121b4b2279d0d09b1d3" Name="Diagram1">
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.addcodamount" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.addtopayamount" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Admin" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Cash" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Cheque" Width="1.5" PointX="6.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Company" Width="1.5" PointX="5.25" PointY="43.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Complaint" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.CreditNote" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.deliverydata" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Destination" Width="1.5" PointX="2.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Dtdc_Ecommerce" Width="1.5" PointX="7.5" PointY="61.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Dtdc_Ptp" Width="1.5" PointX="10.5" PointY="61.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.dtdcPlu" Width="1.5" PointX="7.5" PointY="68" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Employee" Width="1.5" PointX="5.25" PointY="53" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Expense" Width="1.5" PointX="7.5" PointY="73.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.ExpiredStationary" Width="1.5" PointX="8.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.express_cargo" Width="1.5" PointX="10.5" PointY="67.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.FirmDetail" Width="1.5" PointX="0.75" PointY="58.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Franchisee" Width="1.5" PointX="3" PointY="51.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Holiday" Width="1.5" PointX="4.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Holiday1" Width="1.5" PointX="7.5" PointY="89.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Invoice" Width="1.5" PointX="3" PointY="67.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Issue" Width="1.5" PointX="8.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.NEFT" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Nondox" Width="1.5" PointX="13.5" PointY="61.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Notification" Width="1.5" PointX="10.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Other_Service" Width="1.5" PointX="6.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Payment" Width="1.5" PointX="10.5" PointY="71.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.popupimage" Width="1.5" PointX="10.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Priority" Width="1.5" PointX="10.5" PointY="57.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.RaiseIssue" Width="1.5" PointX="8.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Rate7and7DSurface" Width="1.5" PointX="7.5" PointY="54.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Ratem" Width="1.5" PointX="13.5" PointY="68" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Receipt_details" Width="1.5" PointX="13.5" PointY="73" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.RedeemOtp" Width="1.5" PointX="10.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.ReplyAdmin" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Saving" Width="1.5" PointX="10.5" PointY="75.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.sectorName" Width="1.5" PointX="0.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Sector" Width="1.5" PointX="5.25" PointY="79.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Sendmessage" Width="1.5" PointX="7.5" PointY="77.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Service_list" Width="1.5" PointX="2.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.singleinvoiceconsignment" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Stationary" Width="1.5" PointX="12.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.Transaction" Width="1.5" PointX="7.5" PointY="43" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.User" Width="1.5" PointX="5.25" PointY="88.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.wallet_History" Width="1.5" PointX="10.5" PointY="79.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.WalletPoint" Width="1.5" PointX="12.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_a91f79_zionenterprisesModel.TransactionView" Width="1.5" PointX="12.75" PointY="11.75" IsExpanded="true" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Dtdc_Ecom__Compa__2739D489" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Dtdc_Ecommerce__Company___0A9D95DB" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Nondox__Company___3B40CD36" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Nondox__Company___3C34F16F" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Priority__Compan__14270015" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Rate7and7__Compa__40058253" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Rate7and7__Compa__40F9A68C" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Ratem__Company_i__42E1EEFE" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Ratem__Company_i__43D61337" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_company" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_nond" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_ptp" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_ptpexp" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_Tansaction" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__ReplyAdmi__Compl__47A6A41B" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__ReplyAdmi__Compl__489AC854" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_Ecom" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Dtdc_Ptp__Sector__2A164134" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Dtdc_Ptp__Sector__2B0A656D" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__dtdcPlus__Sector__2CF2ADDF" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__dtdcPlus__Sector__2DE6D218" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.Emp_Fk" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_emexp" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_exp" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__express_c__Secto__32AB8735" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__express_c__Secto__339FAB6E" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Franchise__Firm___3587F3E0" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Franchise__Firm___367C1819" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Invoice__Firm_Id__395884C4" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Invoice__Firm_Id__3A4CA8FD" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_emprecept" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_Pay" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_Sav" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_sect" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_Tansaction1" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.sendmasg_Fk" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.sendwall_Fk" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.User_Fk" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Holidays__User_I__37703C52" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Holidays__User_I__3864608B" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_nod" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_emppay" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.FK__Priority__Sector__151B244E" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_Surface" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_rateamaster" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_rece" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_empsav" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_empmes" ManuallyRouted="false" />
+        <AssociationConnector Association="db_a91f79_zionenterprisesModel.fk_emeall" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

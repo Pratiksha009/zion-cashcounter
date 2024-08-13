@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "ImportCsv";
+    Layout = "~/Views/Shared/CashCounterLayout.cshtml";
+}
+
+
+
+<div class="content-wrapper">
+    <section class="content">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box box-info">
+                    <div class="box-header with-border">
+                        <h3 class="box-title">Upload CSV</h3>
+                    </div>
+
+                    @using (Html.BeginForm("ImportCsv", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    <form class="form-horizontal">
+                        <div class="box-body">
+
+                            <input type="file" name="postedFile" />
+
+                            <input type="submit" class="btn btn-info" value="OK" />
+                        </div>
+                    </form>
+
+            }
+
+
+                </div>
+
+
+                @if (ViewBag.Success != null)
+            {
+                <script>
+
+                    $(document).ready(function () {
+
+                        alert('CSV Imported SuccessFully');
+
+                    });
+
+                </script>
+
+        }
+            </div>
+        </div>
+    </section>
+</div>
