@@ -429,6 +429,9 @@ namespace DtdcCashCounter.Controllers
                                where other.Credit == "other"
                                select other.Credit_Amount).Sum();
             ViewBag.paidamount = sum;
+            ViewBag.byonline= (from cash in rc
+                               where cash.Credit == "Online"
+                               select cash.Credit_Amount).Sum();
 
             ViewBag.Expense = db.Expenses.Where(m => m.Datetime_Exp.Value.Day == localTime.Day
               && m.Datetime_Exp.Value.Month == localTime.Month
@@ -561,6 +564,9 @@ namespace DtdcCashCounter.Controllers
             ViewBag.byother = (from other in rc
                                where other.Credit == "other"
                                select other.Credit_Amount).Sum();
+            ViewBag.byonline = (from cash in rc
+                                where cash.Credit == "Online"
+                                select cash.Credit_Amount).Sum();
 
             ViewBag.paidamount = sum;
 

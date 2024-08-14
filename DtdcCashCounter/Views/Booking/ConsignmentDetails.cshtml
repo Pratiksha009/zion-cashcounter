@@ -5,12 +5,7 @@
 Request.ApplicationPath.TrimEnd('/') + "/";
 }
 
-@if (ViewBag.Success != null)
-{
-    <script>
-                    alert('@ViewBag.Success');
-    </script>
-}
+
 
 @if (ViewBag.Success != null)
 {
@@ -357,7 +352,7 @@ Request.ApplicationPath.TrimEnd('/') + "/";
                                                 <div class="col-sm-2 padding-right-0">
                                                     <label>Devide By</label>
                                                     <div class="pad-5">
-                                                        @Html.EditorFor(model => model.DivideBy, new { htmlAttributes = new { @class = "form-control input-sm", @Value = 3000 } })
+                                                        @Html.EditorFor(model => model.DivideBy, new { htmlAttributes = new { @class = "form-control input-sm", @Value = 4500 } })
                                                     </div>
                                                 </div>
                                             </div>
@@ -629,6 +624,12 @@ Request.ApplicationPath.TrimEnd('/') + "/";
                                             <label>
                                                 <input type="radio" name="credit" id="card" value="card">
                                                 Card
+                                            </label>
+                                        </div>
+                                        <div class="radio col-md-2">
+                                            <label>
+                                                <input type="radio" name="credit" id="Online" value="Online">
+                                                Online
                                             </label>
                                         </div>
                                         <div class="radio col-md-2">
@@ -1743,14 +1744,14 @@ $("#ReciepentsCity").autocomplete({
             var Shipment_Mode = $("input[name='Shipment_Mode']:checked").val();
 
             if (Shipment_Mode == "Air") {
-                $('#DivideBy').val(5000);
+                $('#DivideBy').val(4500);
 
             }
             if (Shipment_Mode == "Surface") {
                 $('#DivideBy').val(4500);
             }
             if (Shipment_Mode == "International") {
-                $('#DivideBy').val(2700);
+                $('#DivideBy').val(5000);
             }
 
 
@@ -2025,15 +2026,7 @@ $("#ReciepentsCity").autocomplete({
     </script>
 }
 
-@if (ViewBag.Success != null)
-{
-    <script>
 
-        alert('Consignment updated SuccessFully');
-
-    </script>
-
-}
 
 @if (ViewBag.Discount != null && ViewBag.Discount != 0)
 {

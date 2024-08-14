@@ -302,7 +302,7 @@ Request.ApplicationPath.TrimEnd('/') + "/";
                                                 <div class="col-sm-2 padding-right-0">
                                                     <label>Devide By</label>
                                                     <div class="pad-5">
-                                                        @Html.EditorFor(model => model.DivideBy, new { htmlAttributes = new { @class = "form-control input-sm", @Value = 3000 } })
+                                                        @Html.EditorFor(model => model.DivideBy, new { htmlAttributes = new { @class = "form-control input-sm", @Value = 4500 } })
                                                     </div>
                                                 </div>
                                             </div>
@@ -1633,14 +1633,14 @@ $("#ReciepentsCity").autocomplete({
             var Shipment_Mode = $("input[name='Shipment_Mode']:checked").val();
 
             if (Shipment_Mode == "Air") {
-                $('#DivideBy').val(5000);
+                $('#DivideBy').val(4500);
 
             }
             if (Shipment_Mode == "Surface") {
                 $('#DivideBy').val(4500);
             }
             if (Shipment_Mode == "International") {
-                $('#DivideBy').val(2700);
+                $('#DivideBy').val(5000);
             }
 
 
