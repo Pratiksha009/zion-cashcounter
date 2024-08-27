@@ -56,6 +56,11 @@ namespace DtdcCashCounter.Controllers
             DateTime todate = Convert.ToDateTime(bdateto);
 
 
+            if (Submit == "Export to Excel")
+            {
+                ExportToExcel(fromdate,todate);
+            }
+
             var rd = (from recDet in db.Receipt_details
                       where (pfcode == "" || recDet.Pf_Code == pfcode) && recDet.Datetime_Cons != null &&
                       DbFunctions.TruncateTime(recDet.Datetime_Cons) >= fromdate.Date && DbFunctions.TruncateTime(recDet.Datetime_Cons) <= todate.Date
@@ -419,8 +424,15 @@ namespace DtdcCashCounter.Controllers
             ViewBag.bycheque = (from cheque in rc
                                 where cheque.Credit == "cheque"
                                 select cheque.Credit_Amount).Sum();
-            ViewBag.bycredit = (from credit in rc
-                                where credit.Credit == "credit"
+            //ViewBag.bycredit = (from credit in rc
+            //                    where credit.Credit == "credit"
+            //                    select credit.Credit_Amount).Sum();
+
+            ViewBag.byneft= (from cheque in rc
+                             where cheque.Credit == "NEFT"
+                             select cheque.Credit_Amount).Sum();
+            ViewBag.byWallet = (from credit in rc
+                                where credit.Credit == "Wallet"
                                 select credit.Credit_Amount).Sum();
             ViewBag.bycash = (from cash in rc
                               where cash.Credit == "cash"
@@ -567,6 +579,19 @@ namespace DtdcCashCounter.Controllers
             ViewBag.byonline = (from cash in rc
                                 where cash.Credit == "Online"
                                 select cash.Credit_Amount).Sum();
+            ViewBag.bycard = (from card in rc
+                              where card.Credit == "card"
+                              select card.Credit_Amount).Sum();
+            //ViewBag.bycheque = (from cheque in rc
+            //                    where cheque.Credit == "cheque"
+            //                    select cheque.Credit_Amount).Sum();
+          
+            ViewBag.byneft = (from cheque in rc
+                              where cheque.Credit == "NEFT"
+                              select cheque.Credit_Amount).Sum();
+            ViewBag.byWallet = (from credit in rc
+                                where credit.Credit == "Wallet"
+                                select credit.Credit_Amount).Sum();
 
             ViewBag.paidamount = sum;
 
@@ -1035,22 +1060,253 @@ namespace DtdcCashCounter.Controllers
             return View(Pfsum);
         }
 
+        public void ExportToExcel(DateTime? fromdate,DateTime? todate)
+        {
+            string pfcode = Session["pfCode"].ToString();
+
+            //var consignments = (from m in db.Receipt_details
+            //                    where m.Pf_Code == pfcode
+            //                   && m.Datetime_Cons.Value.Day == dateTime.Value.Day
+            // && m.Datetime_Cons.Value.Month == dateTime.Value.Month
+            // && m.Datetime_Cons.Value.Year == dateTime.Value.Year
+            //                    select m).ToList();
+
+            var consignments = (from m in db.Receipt_details
+                                join u in db.Users
+                                on m.User_Id equals u.User_Id
+                                where m.Pf_Code == pfcode
+                                && m.Datetime_Cons != null
+                                && DbFunctions.TruncateTime(m.Datetime_Cons) >= fromdate
+                                && DbFunctions.TruncateTime(m.Datetime_Cons) <= todate
+                                select new ExcelReceiptModel
+                                {
+                                    Receipt_Id = m.Receipt_Id,
+                                    Consignment_No = m.Consignment_No,
+                                    Destination = m.Destination,
+                                    sender_phone = m.sender_phone,
+                                    Sender_Email = m.Sender_Email,
+                                    Sender = m.Sender,
+                                    SenderCompany = m.SenderCompany,
+                                    SenderAddress = m.SenderAddress,
+                                    SenderCity = m.SenderCity,
+                                    SenderState = m.SenderState,
+                                    SenderPincode = m.SenderPincode,
+                                    Reciepents_phone = m.Reciepents_phone,
+                                    Reciepents_Email = m.Reciepents_Email,
+                                    Reciepents = m.Reciepents,
+                                    ReciepentCompany = m.ReciepentCompany,
+                                    ReciepentsAddress = m.ReciepentsAddress,
+                                    ReciepentsCity = m.ReciepentsCity,
+                                    ReciepentsState = m.ReciepentsState,
+                                    ReciepentsPincode = m.ReciepentsPincode,
+                                    Shipmenttype = m.Shipmenttype,
+                                    Shipment_Length = m.Shipment_Length,
+                                    Shipment_Quantity = m.Shipment_Quantity,
+                                    Shipment_Breadth = m.Shipment_Breadth,
+                                    Shipment_Heigth = m.Shipment_Heigth,
+                                    DivideBy = m.DivideBy,
+                                    TotalNo = m.TotalNo,
+                                    Actual_Weight = m.Actual_Weight,
+                                    volumetric_Weight = m.volumetric_Weight,
+                                    DescriptionContent1 = m.DescriptionContent1,
+                                    DescriptionContent2 = m.DescriptionContent2,
+                                    DescriptionContent3 = m.DescriptionContent3,
+                                    Amount1 = m.Amount1,
+                                    Amount2 = m.Amount2,
+                                    Amount3 = m.Amount3,
+                                    Total_Amount = m.Total_Amount,
+                                    Insurance = m.Insurance,
+                                    Insuance_Percentage = m.Insuance_Percentage,
+                                    Insuance_Amount = m.Insuance_Amount,
+                                    Charges_Amount = m.Charges_Amount,
+                                    Charges_Service = m.Charges_Service,
+                                    Risk_Surcharge = m.Risk_Surcharge,
+                                    Service_Tax = m.Service_Tax,
+                                    Charges_Total = m.Charges_Total,
+                                    Cash = m.Cash,
+                                    Credit = m.Credit,
+                                    Credit_Amount = m.Credit_Amount,
+                                    secure_Pack = m.secure_Pack,
+                                    Passport = m.Passport,
+                                    OfficeSunday = m.OfficeSunday,
+                                    Shipment_Mode = m.Shipment_Mode,
+                                    Addition_charge = m.Addition_charge,
+                                    Addition_Lable = m.Addition_Lable,
+                                    Discount = m.Discount,
+                                    Pf_Code = m.Pf_Code,
+                                    User_Id = m.User_Id,
+                                    Datetime_Cons = m.Datetime_Cons,
+                                    Paid_Amount = m.Paid_Amount,
+                                    usernmae = u.Name // Assuming `u.Name` contains the username
+                                }).ToList();
+
+
+
+            StringWriter sw = new StringWriter();
+
+            sw.WriteLine("\"Consignment No\",\"Sender Phone\",\"Sender Address\",\"Sender City\",\"Sender State\",\"Receiver name\",\"Receiver Pincode\"," +
+                "\"Receiver Phone\",\"Receiver Address\",\"Receiver City\",\"Receiver State\"," +
+                "\"Service Type\",\"Shipment Type\",\"Actual Weight\",\"Volumetric Weight\",\"Charge Total\",\"Paid Amount\",\"Payment Mode\",\"Shipment Mode\",\"PFCode\",\"Username\",\"Date\"");
+
+            Response.ClearContent();
+            Response.AddHeader("content-disposition", "attachment;filename=Exported_Consignments.csv");
+            Response.ContentType = "text/csv";
+
+            string Shipmenttype = "";
+            string Servicetype = "";
+            foreach (var e in consignments)
+            {
+                if (e.Shipmenttype == "N")
+                {
+                    Shipmenttype = "NON-DOCUMENT";
+                }
+                else
+                {
+                    Shipmenttype = "DOCUMENT";
+                }
+                if (e.Consignment_No.StartsWith("P") || e.Consignment_No.StartsWith("N"))
+                {
+                    Servicetype = "STANDARD";
+                }
+                else if (e.Consignment_No.StartsWith("V") || e.Consignment_No.StartsWith("I"))
+                {
+                    Servicetype = "PREMIUM";
+                }
+                else if (e.Consignment_No.StartsWith("E"))
+                {
+                    Servicetype = "PRIME TIME PLUS";
+                }
+                else if (e.Consignment_No.StartsWith("G"))
+                {
+                    Servicetype = "GROUND";
+                }
+                else if (e.Consignment_No.StartsWith("D"))
+                {
+                    Servicetype = "STANDARD";
+                }
+
+                                          
+                                          
+
+                sw.WriteLine(string.Format("\"{0}\",\"{1}\",\"{2}\",\"{3}\",\"{4}\",\"{5}\",\"{6}\",\"{7}\",\"{8}\",\"{9}\",\"{10}\",\"{11}\",\"{12}\",\"{13}\",\"{14}\",\"{15}\",\"{16}\",\"{17}\",\"{18}\",\"{19}\",\"{20}\",\"{21}\"",
+
+                                           e.Consignment_No,
+                                         
+                                          
+                                           e.sender_phone,
+                                           e.SenderAddress,
+                                           e.SenderCity,
+                                           e.SenderState,
+                                           e.Reciepents,
+
+                                           e.ReciepentsPincode,
+                                           e.Reciepents_phone,
+                                          e.ReciepentsAddress,
+                                          
+                                           e.ReciepentsCity,
+                                           e.ReciepentsState,
+                                           Servicetype,
+                                           Shipmenttype,
+                                            e.Actual_Weight,
+                                            e.volumetric_Weight,
+                                            e.Charges_Total,
+                                            e.Paid_Amount,
+                                            e.Credit,
+                                            e.Shipment_Mode,
+                                            e.Pf_Code,
+                                            e.usernmae,
+                                            e.Datetime_Cons.Value.ToString("dd-MM-yyyy")
+
+
+                                           ));
+            }
+
+            Response.Write(sw.ToString());
+
+            Response.End();
+
+
+        }
 
         public void ExportToExcel(DateTime? dateTime)
         {
             string pfcode = Session["pfCode"].ToString();
 
             var consignments = (from m in db.Receipt_details
+                                join u in db.Users
+                                on m.User_Id equals u.User_Id
                                 where m.Pf_Code == pfcode
                                && m.Datetime_Cons.Value.Day == dateTime.Value.Day
              && m.Datetime_Cons.Value.Month == dateTime.Value.Month
              && m.Datetime_Cons.Value.Year == dateTime.Value.Year
-                                select m).ToList();
+                                select new ExcelReceiptModel
+                                {
+                                    Receipt_Id = m.Receipt_Id,
+                                    Consignment_No = m.Consignment_No,
+                                    Destination = m.Destination,
+                                    sender_phone = m.sender_phone,
+                                    Sender_Email = m.Sender_Email,
+                                    Sender = m.Sender,
+                                    SenderCompany = m.SenderCompany,
+                                    SenderAddress = m.SenderAddress,
+                                    SenderCity = m.SenderCity,
+                                    SenderState = m.SenderState,
+                                    SenderPincode = m.SenderPincode,
+                                    Reciepents_phone = m.Reciepents_phone,
+                                    Reciepents_Email = m.Reciepents_Email,
+                                    Reciepents = m.Reciepents,
+                                    ReciepentCompany = m.ReciepentCompany,
+                                    ReciepentsAddress = m.ReciepentsAddress,
+                                    ReciepentsCity = m.ReciepentsCity,
+                                    ReciepentsState = m.ReciepentsState,
+                                    ReciepentsPincode = m.ReciepentsPincode,
+                                    Shipmenttype = m.Shipmenttype,
+                                    Shipment_Length = m.Shipment_Length,
+                                    Shipment_Quantity = m.Shipment_Quantity,
+                                    Shipment_Breadth = m.Shipment_Breadth,
+                                    Shipment_Heigth = m.Shipment_Heigth,
+                                    DivideBy = m.DivideBy,
+                                    TotalNo = m.TotalNo,
+                                    Actual_Weight = m.Actual_Weight,
+                                    volumetric_Weight = m.volumetric_Weight,
+                                    DescriptionContent1 = m.DescriptionContent1,
+                                    DescriptionContent2 = m.DescriptionContent2,
+                                    DescriptionContent3 = m.DescriptionContent3,
+                                    Amount1 = m.Amount1,
+                                    Amount2 = m.Amount2,
+                                    Amount3 = m.Amount3,
+                                    Total_Amount = m.Total_Amount,
+                                    Insurance = m.Insurance,
+                                    Insuance_Percentage = m.Insuance_Percentage,
+                                    Insuance_Amount = m.Insuance_Amount,
+                                    Charges_Amount = m.Charges_Amount,
+                                    Charges_Service = m.Charges_Service,
+                                    Risk_Surcharge = m.Risk_Surcharge,
+                                    Service_Tax = m.Service_Tax,
+                                    Charges_Total = m.Charges_Total,
+                                    Cash = m.Cash,
+                                    Credit = m.Credit,
+                                    Credit_Amount = m.Credit_Amount,
+                                    secure_Pack = m.secure_Pack,
+                                    Passport = m.Passport,
+                                    OfficeSunday = m.OfficeSunday,
+                                    Shipment_Mode = m.Shipment_Mode,
+                                    Addition_charge = m.Addition_charge,
+                                    Addition_Lable = m.Addition_Lable,
+                                    Discount = m.Discount,
+                                    Pf_Code = m.Pf_Code,
+                                    User_Id = m.User_Id,
+                                    Datetime_Cons = m.Datetime_Cons,
+                                    Paid_Amount = m.Paid_Amount,
+                                    usernmae = u.Name // Assuming `u.Name` contains the username
+                                }).ToList();
 
 
             StringWriter sw = new StringWriter();
 
-            sw.WriteLine("\"Consignment No\",\"Service Type\",\"Shipment Type\",\"Insuance Amount\",\"Risk Surcharge\",\"Weight\",\"Length\",\"Width\",\"Height\",\"Sender Pincode\",\"Sender Name\",\"Sender Phone\",\"Sender Address Line 1\",\"Sender Address Line 2\",\"Sender City\",\"Sender State\",\"Receiver Pincode\",\"Receiver name\",\"Receiver Phone\",\"Receiver Address Line 1\",\"Receiver Address Line 2\",\"Receiver City\",\"Receiver State\"");
+            sw.WriteLine("\"Consignment No\",\"Sender Phone\",\"Sender Address\",\"Sender City\",\"Sender State\",\"Receiver name\",\"Receiver Pincode\"," +
+                "\"Receiver Phone\",\"Receiver Address\",\"Receiver City\",\"Receiver State\"," +
+                "\"Service Type\",\"Shipment Type\",\"Actual Weight\",\"Volumetric Weight\",\"Charge Total\",\"Paid Amount\",\"Payment Mode\",\"Shipment Mode\",\"PFCode\",\"Username\",\"Date\"");
 
             Response.ClearContent();
             Response.AddHeader("content-disposition", "attachment;filename=Exported_Consignments.csv");
@@ -1091,39 +1347,39 @@ namespace DtdcCashCounter.Controllers
 
 
 
-                sw.WriteLine(string.Format("\"{0}\",\"{1}\",\"{2}\",\"{3}\",\"{4}\",\"{5}\",\"{6}\",\"{7}\",\"{8}\",\"{9}\",\"{10}\",\"{11}\",\"{12}\",\"{13}\",\"{14}\",\"{15}\",\"{16}\",\"{17}\",\"{18}\",\"{19}\",\"{20}\",\"{21}\",\"{22}\"",
+
+                sw.WriteLine(string.Format("\"{0}\",\"{1}\",\"{2}\",\"{3}\",\"{4}\",\"{5}\",\"{6}\",\"{7}\",\"{8}\",\"{9}\",\"{10}\",\"{11}\",\"{12}\",\"{13}\",\"{14}\",\"{15}\",\"{16}\",\"{17}\",\"{18}\",\"{19}\",\"{20}\",\"{21}\"",
 
                                            e.Consignment_No,
-                                           Servicetype,
-                                           Shipmenttype,
-                                           e.Total_Amount,
 
-                                           e.Insurance,
-                                           e.Actual_Weight,
-                                           e.Shipment_Length,
-                                           e.Shipment_Breadth,
-                                           e.Shipment_Heigth,
-                                           e.SenderPincode,
-                                           e.Sender,
+
                                            e.sender_phone,
                                            e.SenderAddress,
-                                           "", //SenderAddress2
                                            e.SenderCity,
                                            e.SenderState,
+                                           e.Reciepents,
+
                                            e.ReciepentsPincode,
-                                          e.Reciepents,
                                            e.Reciepents_phone,
                                           e.ReciepentsAddress,
-                                           "",//ReciepentsAddress2 =
+
                                            e.ReciepentsCity,
-                                           e.ReciepentsState
-
-
+                                           e.ReciepentsState,
+                                           Servicetype,
+                                           Shipmenttype,
+                                            e.Actual_Weight,
+                                            e.volumetric_Weight,
+                                            e.Charges_Total,
+                                            e.Paid_Amount,
+                                            e.Credit,
+                                            e.Shipment_Mode,
+                                            e.Pf_Code,
+                                            e.usernmae,
+                                            e.Datetime_Cons.Value.ToString("dd-MM-yyyy")
 
 
                                            ));
             }
-
             Response.Write(sw.ToString());
 
             Response.End();

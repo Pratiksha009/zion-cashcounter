@@ -507,6 +507,7 @@
     <Compile Include="Models\ChartPFDay.cs" />
     <Compile Include="Models\DisplayPFSum.cs" />
     <Compile Include="Models\EmpLogin.cs" />
+    <Compile Include="Models\ExcelReceiptModel.cs" />
     <Compile Include="Models\GetLocalTime.cs" />
     <Compile Include="Models\ImageType.cs" />
     <Compile Include="Models\JsonArrayCalc.cs" />

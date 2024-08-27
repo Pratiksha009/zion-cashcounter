@@ -554,26 +554,32 @@ Request.ApplicationPath.TrimEnd('/') + "/";
                                         </div>
                                         <div class="radio col-md-2">
                                             <label>
-                                                <input type="radio" name="credit" id="Online" value="Online">
-                                                Online
+                                                <input type="radio" name="credit" id="Wallet" value="Wallet">
+                                                Wallet
                                             </label>
                                         </div>
-                                        <div class="radio col-md-2">
-                                            <label>
-                                                <input type="radio" name="credit" id="credit" value="credit">
-                                                Credit
-                                            </label>
-                                        </div>
+                                        @*<div class="radio col-md-2">
+            <label>
+                <input type="radio" name="credit" id="credit" value="credit">
+                Credit
+            </label>
+        </div>*@
                                         <div class="radio col-md-2">
                                             <label>
                                                 <input type="radio" name="credit" id="cheque" value="cheque">
                                                 Cheque
                                             </label>
                                         </div>
+                                        @*<div class="radio col-md-2">
+            <label>
+                <input type="radio" name="credit" id="card" value="card">
+                Card
+            </label>
+        </div>*@
                                         <div class="radio col-md-2">
                                             <label>
-                                                <input type="radio" name="credit" id="card" value="card">
-                                                Card
+                                                <input type="radio" name="credit" id="NEFT" value="NEFT">
+                                                NEFT
                                             </label>
                                         </div>
                                         <div class="radio col-md-2">
@@ -906,6 +912,16 @@ Request.ApplicationPath.TrimEnd('/') + "/";
         $('#balamount').hide();
         $('#details').hide();
     }
+    function NeftAmount() {
+        $('#creditamount').show();
+        $('#balamount').hide();
+        $('#details').hide();
+    }
+    function walletamount() {
+        $('#creditamount').show();
+        $('#balamount').hide();
+        $('#details').hide();
+    }
     function creditamount() {
        $('#creditamount').show();
         $('#balamount').show();
@@ -981,7 +997,13 @@ Request.ApplicationPath.TrimEnd('/') + "/";
         $('#cash').click(function () {
            cashamount();
         });
-
+        
+        $('#Wallet').click(function () {
+            walletamount();
+        });
+        $("#NEFT").click(function () {
+            NeftAmount();
+        })
         $('#credit').click(function () {
             creditamount();
         });

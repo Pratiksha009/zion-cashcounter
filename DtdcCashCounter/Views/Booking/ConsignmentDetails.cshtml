@@ -602,6 +602,42 @@ Request.ApplicationPath.TrimEnd('/') + "/";
 
                                 <div class="col-md-12">
                                     <div class="form-group">
+                                        @*<div class="radio col-md-2">
+            <label>
+                <input type="radio" name="credit" id="cash" value="cash" checked="">
+                Cash
+            </label>
+        </div>
+        <div class="radio col-md-2">
+            <label>
+                <input type="radio" name="credit" id="credit" value="credit">
+                Credit
+            </label>
+        </div>
+        <div class="radio col-md-2">
+            <label style="padding-left: 13px;">
+                <input type="radio" name="credit" id="cheque" value="cheque">
+                Cheque
+            </label>
+        </div>
+        <div class="radio col-md-2">
+            <label>
+                <input type="radio" name="credit" id="card" value="card">
+                Card
+            </label>
+        </div>
+        <div class="radio col-md-2">
+            <label>
+                <input type="radio" name="credit" id="Online" value="Online">
+                Online
+            </label>
+        </div>
+        <div class="radio col-md-2">
+            <label>
+                <input type="radio" name="credit" id="other" value="other">
+                Other
+            </label>
+        </div>*@
                                         <div class="radio col-md-2">
                                             <label>
                                                 <input type="radio" name="credit" id="cash" value="cash" checked="">
@@ -610,26 +646,21 @@ Request.ApplicationPath.TrimEnd('/') + "/";
                                         </div>
                                         <div class="radio col-md-2">
                                             <label>
-                                                <input type="radio" name="credit" id="credit" value="credit">
-                                                Credit
+                                                <input type="radio" name="credit" id="Wallet" value="Wallet">
+                                                Wallet
                                             </label>
-                                        </div>
+                                      
                                         <div class="radio col-md-2">
-                                            <label style="padding-left: 13px;">
+                                            <label>
                                                 <input type="radio" name="credit" id="cheque" value="cheque">
                                                 Cheque
                                             </label>
                                         </div>
+                                       
                                         <div class="radio col-md-2">
                                             <label>
-                                                <input type="radio" name="credit" id="card" value="card">
-                                                Card
-                                            </label>
-                                        </div>
-                                        <div class="radio col-md-2">
-                                            <label>
-                                                <input type="radio" name="credit" id="Online" value="Online">
-                                                Online
+                                                <input type="radio" name="credit" id="NEFT" value="NEFT">
+                                                NEFT
                                             </label>
                                         </div>
                                         <div class="radio col-md-2">
@@ -1054,6 +1085,16 @@ Request.ApplicationPath.TrimEnd('/') + "/";
         $('#balamount').hide();
         $('#details').hide();
     }
+    function NeftAmount() {
+        $('#creditamount').show();
+        $('#balamount').hide();
+        $('#details').hide();
+    }
+    function walletamount() {
+        $('#creditamount').show();
+        $('#balamount').hide();
+        $('#details').hide();
+    }
     function creditamount() {
         $('#creditamount').show();
         $('#balamount').show();
@@ -1128,7 +1169,12 @@ Request.ApplicationPath.TrimEnd('/') + "/";
         $('#cash').click(function () {
             cashamount();
         });
-
+        $('#Wallet').click(function () {
+            walletamount();
+        });
+        $("#NEFT").click(function () {
+            NeftAmount();
+        })
         $('#credit').click(function () {
             creditamount();
         });

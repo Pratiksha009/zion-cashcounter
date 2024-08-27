@@ -1455,6 +1455,7 @@ Select(e => new
                     reciept_Details.Addition_charge = Convert.ToInt16(reciept_Details.Addition_charge);
                     reciept_Details.Charges_Total = Convert.ToInt16(reciept_Details.Charges_Total);
                     reciept_Details.Credit_Amount = Convert.ToInt16(reciept_Details.Credit_Amount);
+                  
                     ////////////////////
                     reciept_Details.secure_Pack = consignment.secure_Pack;
                     reciept_Details.Passport = consignment.Passport;
@@ -1476,7 +1477,7 @@ Select(e => new
                 reciept_Details.secure_Pack = consignment.secure_Pack;
                 reciept_Details.Passport = consignment.Passport;
                 reciept_Details.OfficeSunday = consignment.OfficeSunday;
-
+                 consignment.Credit=reciept_Details.Credit;
 
 
                 reciept_Details.Datetime_Cons = consignment.Datetime_Cons;
