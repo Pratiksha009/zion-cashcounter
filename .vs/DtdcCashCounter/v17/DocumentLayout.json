@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\dtdccashcounter\\views\\reports\\dailyreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\reports\\dailyreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|d:\\codetentacles live project wfh\\dtdc live project\\zioncashcounter\\dtdccashcounter\\views\\ratemastercash\\cashcounterdox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\ratemastercash\\cashcounterdox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|d:\\codetentacles live project wfh\\dtdc live project\\zioncashcounter\\dtdccashcounter\\views\\ratemastercash\\editcompanycashcounter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\ratemastercash\\editcompanycashcounter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|d:\\codetentacles live project wfh\\dtdc live project\\zioncashcounter\\dtdccashcounter\\controllers\\ratemastercashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\controllers\\ratemastercashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|d:\\codetentacles live project wfh\\dtdc live project\\zioncashcounter\\dtdccashcounter\\views\\ratemastercash\\ratemaster7and7dsurface.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\ratemastercash\\ratemaster7and7dsurface.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|d:\\codetentacles live project wfh\\dtdc live project\\zioncashcounter\\dtdccashcounter\\views\\ratemastercash\\ratemasterecommerce.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\ratemastercash\\ratemasterecommerce.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\dtdccashcounter\\models\\excelreceiptmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\models\\excelreceiptmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|d:\\codetentacles live project wfh\\dtdc live project\\zioncashcounter\\dtdccashcounter\\views\\ratemastercash\\cashcounterptp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\ratemastercash\\cashcounterptp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|d:\\codetentacles live project wfh\\dtdc live project\\zioncashcounter\\dtdccashcounter\\views\\ratemastercash\\cashcounterplus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\ratemastercash\\cashcounterplus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|d:\\codetentacles live project wfh\\dtdc live project\\zioncashcounter\\dtdccashcounter\\views\\ratemastercash\\cashcounternondox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\ratemastercash\\cashcounternondox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|d:\\codetentacles live project wfh\\dtdc live project\\zioncashcounter\\dtdccashcounter\\views\\ratemastercash\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\ratemastercash\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\dtdccashcounter\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +51,20 @@
       "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\booking\\consignmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|d:\\codetentacles live project wfh\\dtdc live project\\zioncashcounter\\dtdccashcounter\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\dtdccashcounter\\views\\booking\\printreceipt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\booking\\printreceipt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\dtdccashcounter\\models\\excelreceiptmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\models\\excelreceiptmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\dtdccashcounter\\views\\booking\\bulkbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\booking\\bulkbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\dtdccashcounter\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|d:\\codetentacles live project wfh\\dtdc live project\\zioncashcounter\\dtdccashcounter\\views\\reports\\dailyreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\reports\\dailyreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\dtdccashcounter\\models\\receiptdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\dtdccashcounter\\views\\reports\\receiptreports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\reports\\receiptreports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\dtdccashcounter\\views\\booking\\bulkbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B84CDE0B-211D-497F-AB8D-74C6AACBD6A9}|DtdcCashCounter\\DtdcCashCounter.csproj|solutionrelative:dtdccashcounter\\views\\booking\\bulkbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ShrikrishnaAdmin\\DtDc Billing\\Entity FR\\Receipt_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -63,76 +99,219 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReportsController.cs",
-              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Controllers\\ReportsController.cs",
-              "RelativeDocumentMoniker": "DtdcCashCounter\\Controllers\\ReportsController.cs",
-              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Controllers\\ReportsController.cs",
-              "RelativeToolTip": "DtdcCashCounter\\Controllers\\ReportsController.cs",
-              "ViewState": "AQIAADsGAAAAAAAAAAAQwEcGAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T11:12:09.458Z",
+              "DocumentIndex": 0,
+              "Title": "CashCounterDox.cshtml",
+              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\CashCounterDox.cshtml",
+              "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\RateMasterCash\\CashCounterDox.cshtml",
+              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\CashCounterDox.cshtml",
+              "RelativeToolTip": "DtdcCashCounter\\Views\\RateMasterCash\\CashCounterDox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:57:41.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "RateMasterEcommerce.cshtml",
+              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\RateMasterEcommerce.cshtml",
+              "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\RateMasterCash\\RateMasterEcommerce.cshtml",
+              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\RateMasterEcommerce.cshtml",
+              "RelativeToolTip": "DtdcCashCounter\\Views\\RateMasterCash\\RateMasterEcommerce.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:57:05.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CashCounterNonDox.cshtml",
+              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\CashCounterNonDox.cshtml",
+              "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\RateMasterCash\\CashCounterNonDox.cshtml",
+              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\CashCounterNonDox.cshtml",
+              "RelativeToolTip": "DtdcCashCounter\\Views\\RateMasterCash\\CashCounterNonDox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:49:34.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditCompanyCashCounter.cshtml",
+              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\EditCompanyCashCounter.cshtml",
+              "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\RateMasterCash\\EditCompanyCashCounter.cshtml",
+              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\EditCompanyCashCounter.cshtml",
+              "RelativeToolTip": "DtdcCashCounter\\Views\\RateMasterCash\\EditCompanyCashCounter.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:53:55.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RateMaster7and7DSurface.cshtml",
+              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\RateMaster7and7DSurface.cshtml",
+              "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\RateMasterCash\\RateMaster7and7DSurface.cshtml",
+              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\RateMaster7and7DSurface.cshtml",
+              "RelativeToolTip": "DtdcCashCounter\\Views\\RateMasterCash\\RateMaster7and7DSurface.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:57:22.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RateMasterCashController.cs",
+              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Controllers\\RateMasterCashController.cs",
+              "RelativeDocumentMoniker": "DtdcCashCounter\\Controllers\\RateMasterCashController.cs",
+              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Controllers\\RateMasterCashController.cs",
+              "RelativeToolTip": "DtdcCashCounter\\Controllers\\RateMasterCashController.cs",
+              "ViewState": "AQIAALkDAAAAAAAAAAAQwJMCAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:44:44.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CashCounterPlus.cshtml",
+              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\CashCounterPlus.cshtml",
+              "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\RateMasterCash\\CashCounterPlus.cshtml",
+              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\CashCounterPlus.cshtml",
+              "RelativeToolTip": "DtdcCashCounter\\Views\\RateMasterCash\\CashCounterPlus.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:52:30.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExcelReceiptModel.cs",
+              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Models\\ExcelReceiptModel.cs",
+              "RelativeDocumentMoniker": "DtdcCashCounter\\Models\\ExcelReceiptModel.cs",
+              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Models\\ExcelReceiptModel.cs",
+              "RelativeToolTip": "DtdcCashCounter\\Models\\ExcelReceiptModel.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAzwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:05:11.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CashCounterPtp.cshtml",
+              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\CashCounterPtp.cshtml",
+              "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\RateMasterCash\\CashCounterPtp.cshtml",
+              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\CashCounterPtp.cshtml",
+              "RelativeToolTip": "DtdcCashCounter\\Views\\RateMasterCash\\CashCounterPtp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:53:41.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\Index.cshtml",
+              "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\RateMasterCash\\Index.cshtml",
+              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\RateMasterCash\\Index.cshtml",
+              "RelativeToolTip": "DtdcCashCounter\\Views\\RateMasterCash\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:45:58.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Printreceipt.cshtml",
               "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\Booking\\Printreceipt.cshtml",
               "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\Booking\\Printreceipt.cshtml",
               "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\Booking\\Printreceipt.cshtml",
               "RelativeToolTip": "DtdcCashCounter\\Views\\Booking\\Printreceipt.cshtml",
-              "ViewState": "AQIAAM4DAAAAAAAAAAAAAO0DAAAKAAAA",
+              "ViewState": "AQIAAIYDAAAAAAAAAAAAAJcDAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-13T10:10:32.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "ConsignmentDetails.cshtml",
               "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\Booking\\ConsignmentDetails.cshtml",
               "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\Booking\\ConsignmentDetails.cshtml",
               "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\Booking\\ConsignmentDetails.cshtml",
               "RelativeToolTip": "DtdcCashCounter\\Views\\Booking\\ConsignmentDetails.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAAuAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-13T11:09:01.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "DailyReport.cshtml",
               "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\Reports\\DailyReport.cshtml",
               "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\Reports\\DailyReport.cshtml",
               "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\Reports\\DailyReport.cshtml",
               "RelativeToolTip": "DtdcCashCounter\\Views\\Reports\\DailyReport.cshtml",
-              "ViewState": "AQIAAE4BAAAAAAAAAAAowGQBAAAAAAAA",
+              "ViewState": "AQIAAHUBAAAAAAAAAAAowHsBAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-13T11:13:18.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "BookingController.cs",
               "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "DtdcCashCounter\\Controllers\\BookingController.cs",
               "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Controllers\\BookingController.cs",
               "RelativeToolTip": "DtdcCashCounter\\Controllers\\BookingController.cs",
-              "ViewState": "AQIAALgFAAAAAAAAAAAvwMsFAAAAAAAA",
+              "ViewState": "AQIAAKwEAAAAAAAAAAAmwMcEAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T10:12:25.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
+              "Title": "BulkBooking.cshtml",
+              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\Booking\\BulkBooking.cshtml",
+              "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\Booking\\BulkBooking.cshtml",
+              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\Booking\\BulkBooking.cshtml",
+              "RelativeToolTip": "DtdcCashCounter\\Views\\Booking\\BulkBooking.cshtml",
+              "ViewState": "AQIAALIDAAAAAAAAAAAwwL8DAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T10:30:07.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "DtdcCashCounter\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "DtdcCashCounter\\Controllers\\ReportsController.cs",
+              "ViewState": "AQIAAKMBAAAAAAAAAAArwLUBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:12:09.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ReceiptDetailsModel.cs",
               "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Models\\ReceiptDetailsModel.cs",
               "RelativeDocumentMoniker": "DtdcCashCounter\\Models\\ReceiptDetailsModel.cs",
@@ -144,19 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExcelReceiptModel.cs",
-              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Models\\ExcelReceiptModel.cs",
-              "RelativeDocumentMoniker": "DtdcCashCounter\\Models\\ExcelReceiptModel.cs",
-              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Models\\ExcelReceiptModel.cs",
-              "RelativeToolTip": "DtdcCashCounter\\Models\\ExcelReceiptModel.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAA+wEUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T08:05:11.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "ReceiptReports.cshtml",
               "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\Reports\\ReceiptReports.cshtml",
               "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\Reports\\ReceiptReports.cshtml",
@@ -168,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "CreditNote.cs",
               "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ShrikrishnaAdmin\\DtDc Billing\\Entity FR\\CreditNote.cs",
               "RelativeDocumentMoniker": "..\\ShrikrishnaAdmin\\DtDc Billing\\Entity FR\\CreditNote.cs",
@@ -180,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "addtopayamount.cs",
               "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ShrikrishnaAdmin\\DtDc Billing\\Entity FR\\addtopayamount.cs",
               "RelativeDocumentMoniker": "..\\ShrikrishnaAdmin\\DtDc Billing\\Entity FR\\addtopayamount.cs",
@@ -192,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Receipt_details.cs",
               "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ShrikrishnaAdmin\\DtDc Billing\\Entity FR\\Receipt_details.cs",
               "RelativeDocumentMoniker": "..\\ShrikrishnaAdmin\\DtDc Billing\\Entity FR\\Receipt_details.cs",
@@ -204,19 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BulkBooking.cshtml",
-              "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\Booking\\BulkBooking.cshtml",
-              "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\Booking\\BulkBooking.cshtml",
-              "ToolTip": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\Booking\\BulkBooking.cshtml",
-              "RelativeToolTip": "DtdcCashCounter\\Views\\Booking\\BulkBooking.cshtml",
-              "ViewState": "AQIAAHoGAAAAAAAAAADwv4wGAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T10:30:07.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Web.config",
               "RelativeDocumentMoniker": "DtdcCashCounter\\Web.config",
@@ -229,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "AdminDailyReport.cshtml",
               "DocumentMoniker": "D:\\CodeTentacles Live Project WFH\\DTDC Live Project\\ZionCashcounter\\DtdcCashCounter\\Views\\Reports\\AdminDailyReport.cshtml",
               "RelativeDocumentMoniker": "DtdcCashCounter\\Views\\Reports\\AdminDailyReport.cshtml",
@@ -247,11 +402,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

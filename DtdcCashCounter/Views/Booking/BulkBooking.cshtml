@@ -565,6 +565,42 @@
 
                                 <div class="col-md-12">
                                     <div class="form-group">
+                                        @*<div class="radio col-md-2">
+            <label>
+                <input type="radio" name="credit" id="cash" value="cash" checked="">
+                Cash
+            </label>
+        </div>
+        <div class="radio col-md-2">
+            <label>
+                <input type="radio" name="credit" id="Online" value="Online">
+                Online
+            </label>
+        </div>
+        <div class="radio col-md-2">
+            <label>
+                <input type="radio" name="credit" id="credit" value="credit">
+                Credit
+            </label>
+        </div>
+        <div class="radio col-md-2">
+            <label>
+                <input type="radio" name="credit" id="cheque" value="cheque">
+                Cheque
+            </label>
+        </div>
+        <div class="radio col-md-2">
+            <label>
+                <input type="radio" name="credit" id="card" value="card">
+                Card
+            </label>
+        </div>
+        <div class="radio col-md-2">
+            <label>
+                <input type="radio" name="credit" id="other" value="other">
+                Other
+            </label>
+        </div>*@
                                         <div class="radio col-md-2">
                                             <label>
                                                 <input type="radio" name="credit" id="cash" value="cash" checked="">
@@ -573,26 +609,22 @@
                                         </div>
                                         <div class="radio col-md-2">
                                             <label>
-                                                <input type="radio" name="credit" id="Online" value="Online">
-                                                Online
+                                                <input type="radio" name="credit" id="Wallet" value="Wallet">
+                                                Wallet
                                             </label>
                                         </div>
-                                        <div class="radio col-md-2">
-                                            <label>
-                                                <input type="radio" name="credit" id="credit" value="credit">
-                                                Credit
-                                            </label>
-                                        </div>
+
                                         <div class="radio col-md-2">
                                             <label>
                                                 <input type="radio" name="credit" id="cheque" value="cheque">
                                                 Cheque
                                             </label>
                                         </div>
+
                                         <div class="radio col-md-2">
                                             <label>
-                                                <input type="radio" name="credit" id="card" value="card">
-                                                Card
+                                                <input type="radio" name="credit" id="NEFT" value="NEFT">
+                                                NEFT
                                             </label>
                                         </div>
                                         <div class="radio col-md-2">
@@ -928,6 +960,16 @@
         $('#details').show();
 
     }
+    function NeftAmount() {
+        $('#creditamount').show();
+        $('#balamount').show();
+        $('#details').show();
+    }
+    function walletamount() {
+        $('#creditamount').show();
+        $('#balamount').show();
+        $('#details').show();
+    }
     function chequeamount() {
         $('#creditamount').show();
         $('#balamount').show();
@@ -1010,7 +1052,12 @@
         $('#other').click(function () {
             otheramount();
         });
-
+        $('#Wallet').click(function () {
+            walletamount();
+        });
+        $("#NEFT").click(function () {
+            NeftAmount();
+        })
         $('#Insuance_Percentage,#Insuance_Amount').keyup(function () {
             var perc = $('#Insuance_Percentage').val();
             var Amt = $('#Insuance_Amount').val();

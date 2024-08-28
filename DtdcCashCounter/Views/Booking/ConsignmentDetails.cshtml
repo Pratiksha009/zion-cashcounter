@@ -603,41 +603,41 @@ Request.ApplicationPath.TrimEnd('/') + "/";
                                 <div class="col-md-12">
                                     <div class="form-group">
                                         @*<div class="radio col-md-2">
-            <label>
-                <input type="radio" name="credit" id="cash" value="cash" checked="">
-                Cash
-            </label>
-        </div>
-        <div class="radio col-md-2">
-            <label>
-                <input type="radio" name="credit" id="credit" value="credit">
-                Credit
-            </label>
-        </div>
-        <div class="radio col-md-2">
-            <label style="padding-left: 13px;">
-                <input type="radio" name="credit" id="cheque" value="cheque">
-                Cheque
-            </label>
-        </div>
-        <div class="radio col-md-2">
-            <label>
-                <input type="radio" name="credit" id="card" value="card">
-                Card
-            </label>
-        </div>
-        <div class="radio col-md-2">
-            <label>
-                <input type="radio" name="credit" id="Online" value="Online">
-                Online
-            </label>
-        </div>
-        <div class="radio col-md-2">
-            <label>
-                <input type="radio" name="credit" id="other" value="other">
-                Other
-            </label>
-        </div>*@
+                <label>
+                    <input type="radio" name="credit" id="cash" value="cash" checked="">
+                    Cash
+                </label>
+            </div>
+            <div class="radio col-md-2">
+                <label>
+                    <input type="radio" name="credit" id="credit" value="credit">
+                    Credit
+                </label>
+            </div>
+            <div class="radio col-md-2">
+                <label style="padding-left: 13px;">
+                    <input type="radio" name="credit" id="cheque" value="cheque">
+                    Cheque
+                </label>
+            </div>
+            <div class="radio col-md-2">
+                <label>
+                    <input type="radio" name="credit" id="card" value="card">
+                    Card
+                </label>
+            </div>
+            <div class="radio col-md-2">
+                <label>
+                    <input type="radio" name="credit" id="Online" value="Online">
+                    Online
+                </label>
+            </div>
+            <div class="radio col-md-2">
+                <label>
+                    <input type="radio" name="credit" id="other" value="other">
+                    Other
+                </label>
+            </div>*@
                                         <div class="radio col-md-2">
                                             <label>
                                                 <input type="radio" name="credit" id="cash" value="cash" checked="">
@@ -649,14 +649,15 @@ Request.ApplicationPath.TrimEnd('/') + "/";
                                                 <input type="radio" name="credit" id="Wallet" value="Wallet">
                                                 Wallet
                                             </label>
-                                      
+                                        </div>
+
                                         <div class="radio col-md-2">
                                             <label>
                                                 <input type="radio" name="credit" id="cheque" value="cheque">
                                                 Cheque
                                             </label>
                                         </div>
-                                       
+
                                         <div class="radio col-md-2">
                                             <label>
                                                 <input type="radio" name="credit" id="NEFT" value="NEFT">
@@ -669,62 +670,61 @@ Request.ApplicationPath.TrimEnd('/') + "/";
                                                 Other
                                             </label>
                                         </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class=" col-md-4">
-                                            <div id="creditamount" class="form-group">
-                                                <label for="" class="col-sm-12">Paid Amount</label>
-                                                <div class="col-sm-12">
-                                                    @Html.EditorFor(model => model.Credit_Amount, new { htmlAttributes = new { @class = "form-control input-sm", @placeholder = "Amount" } })
+                                        <div class="col-md-12">
+                                            <div class=" col-md-4">
+                                                <div id="creditamount" class="form-group">
+                                                    <label for="" class="col-sm-12">Paid Amount</label>
+                                                    <div class="col-sm-12">
+                                                        @Html.EditorFor(model => model.Credit_Amount, new { htmlAttributes = new { @class = "form-control input-sm", @placeholder = "Amount" } })
+                                                    </div>
                                                 </div>
                                             </div>
-                                        </div>
 
-                                        <div class=" col-md-4">
-                                            <div id="balamount" class="form-group">
-                                                <label for="" class="col-sm-12">Balance Amount</label>
-                                                <div class="col-sm-12">
-                                                    <input type="text" class="form-control" name="balamount" id="balamount1" value="0" readonly>
+                                            <div class=" col-md-4">
+                                                <div id="balamount" class="form-group">
+                                                    <label for="" class="col-sm-12">Balance Amount</label>
+                                                    <div class="col-sm-12">
+                                                        <input type="text" class="form-control" name="balamount" id="balamount1" value="0" readonly>
+                                                    </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div class=" col-md-4">
-                                            <div id="details" class="form-group">
-                                                <label for="" class="col-sm-12">Details</label>
-                                                <div class="col-sm-12">
-                                                    @Html.EditorFor(model => model.Cash, new { htmlAttributes = new { @class = "form-control input-sm", @placeholder = "details" } })
+                                            <div class=" col-md-4">
+                                                <div id="details" class="form-group">
+                                                    <label for="" class="col-sm-12">Details</label>
+                                                    <div class="col-sm-12">
+                                                        @Html.EditorFor(model => model.Cash, new { htmlAttributes = new { @class = "form-control input-sm", @placeholder = "details" } })
+                                                    </div>
                                                 </div>
                                             </div>
+
+
+
+
+                                            <div class="form-group">
+                                                <div class="box-footer">
+                                                    @*<button type="button" class="btn btn-block btn-info btn-sm">Add Remark</button>*@
+                                                </div>
+                                            </div>
+                                            <!-- checkbox -->
+                                            <!--<div class="form-group">
+            <label class="col-md-12">-->
+                                            @*<input type="checkbox" class="minimal-red" id="securepack">*@
+
+                                            <!--@@Html.CheckBoxFor(model => model.secure_Pack, new { htmlAttributes = new { @@class = "form-control input-sm" } })Secure Pack
+
+            </label>
+            <label class="col-md-12">-->
+                                            @*<input type="checkbox" class="minimal-red" id="passport">*@
+                                            <!--@@Html.CheckBoxFor(model => model.Passport, new { htmlAttributes = new { @@class = "form-control input-sm" } })Passport
+            </label>
+            <label class="col-md-12">-->
+                                            @*<input type="checkbox" class="minimal-red" id="sundaycollect">*@
+                                            <!--@@Html.CheckBoxFor(model => model.OfficeSunday, new { htmlAttributes = new { @@class = "form-control input-sm" } })Office / Sunday Collect
+                </label>
+            </div>-->
                                         </div>
                                     </div>
-
-
-
-                                    <div class="form-group">
-                                        <div class="box-footer">
-                                            @*<button type="button" class="btn btn-block btn-info btn-sm">Add Remark</button>*@
-                                        </div>
-                                    </div>
-                                    <!-- checkbox -->
-                                    <!--<div class="form-group">
-                                        <label class="col-md-12">-->
-                                    @*<input type="checkbox" class="minimal-red" id="securepack">*@
-
-                                    <!--@@Html.CheckBoxFor(model => model.secure_Pack, new { htmlAttributes = new { @@class = "form-control input-sm" } })Secure Pack
-
-                                    </label>
-                                    <label class="col-md-12">-->
-                                    @*<input type="checkbox" class="minimal-red" id="passport">*@
-                                    <!--@@Html.CheckBoxFor(model => model.Passport, new { htmlAttributes = new { @@class = "form-control input-sm" } })Passport
-                                    </label>
-                                    <label class="col-md-12">-->
-                                    @*<input type="checkbox" class="minimal-red" id="sundaycollect">*@
-                                    <!--@@Html.CheckBoxFor(model => model.OfficeSunday, new { htmlAttributes = new { @@class = "form-control input-sm" } })Office / Sunday Collect
-                                        </label>
-                                    </div>-->
                                 </div>
-                            </div>
-
                             <div class="box-footer">
                                 @*<div class="col-md-5 col-md-offset-2">
                                         <strong>Your Wallet Money Is :</strong>
@@ -1087,13 +1087,13 @@ Request.ApplicationPath.TrimEnd('/') + "/";
     }
     function NeftAmount() {
         $('#creditamount').show();
-        $('#balamount').hide();
-        $('#details').hide();
+        $('#balamount').show();
+        $('#details').show();
     }
     function walletamount() {
         $('#creditamount').show();
-        $('#balamount').hide();
-        $('#details').hide();
+        $('#balamount').show();
+        $('#details').show();
     }
     function creditamount() {
         $('#creditamount').show();

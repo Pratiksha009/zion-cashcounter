@@ -10,7 +10,7 @@
     <h4>Air Rate Cargo</h4>
 </div>
 
-@using (Ajax.BeginForm("RateMasterNonDox", "RateMaster", new AjaxOptions { HttpMethod = "Post", UpdateTargetId = "frmEmp2", OnBegin = "onBegin", OnComplete = "onComplete" }))
+@using (Ajax.BeginForm("CashCounterNonDox", "RateMasterCash", new AjaxOptions { HttpMethod = "Post", UpdateTargetId = "frmEmp2", OnBegin = "onBegin", OnComplete = "onComplete" }))
 {
 
     <input type="hidden" value="@ViewBag.companyid" name="comppid">

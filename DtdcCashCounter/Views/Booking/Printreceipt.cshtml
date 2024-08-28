@@ -914,13 +914,13 @@ Request.ApplicationPath.TrimEnd('/') + "/";
     }
     function NeftAmount() {
         $('#creditamount').show();
-        $('#balamount').hide();
-        $('#details').hide();
+        $('#balamount').show();
+        $('#details').show();
     }
     function walletamount() {
         $('#creditamount').show();
-        $('#balamount').hide();
-        $('#details').hide();
+        $('#balamount').show();
+        $('#details').show();
     }
     function creditamount() {
        $('#creditamount').show();
@@ -998,12 +998,12 @@ Request.ApplicationPath.TrimEnd('/') + "/";
            cashamount();
         });
         
-        $('#Wallet').click(function () {
-            walletamount();
-        });
-        $("#NEFT").click(function () {
-            NeftAmount();
-        })
+            $('#Wallet').click(function () {
+                walletamount();
+            });
+            $("#NEFT").click(function () {
+                NeftAmount();
+            })
         $('#credit').click(function () {
             creditamount();
         });
